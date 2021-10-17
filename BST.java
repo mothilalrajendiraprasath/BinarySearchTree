@@ -1,6 +1,6 @@
 package com.company;
 
-public class BST<T extends Comparable<T>>{
+public class BST{
 
     public node newNode(int data){
         node n = new node();
